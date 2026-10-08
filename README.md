@@ -20,9 +20,9 @@ Batangas State University, Alangilan Campus
 | Ch1_2_3 | [link]() | [link]() |
 | Ch4 | [link]() | [link]() |
 | Ch5 | [link]() | [link]() |
-| Ch6 |(https://colab.research.google.com/drive/1j7nSJPkcsEtO4_6IF_xnreictWYR-_wD?usp=drive_link) | [link]() |
-| Ch7 |(https://colab.research.google.com/drive/1-xNWKHvtL8xeL3Nte4QZUa2cc9GZk4kS?usp=drive_link) | [link]() |
-| Ch8 | [link]() | [link]() |
+| Ch6 | https://colab.research.google.com/drive/1j7nSJPkcsEtO4_6IF_xnreictWYR-_wD?usp=drive_link | [link]() |
+| Ch7 | https://colab.research.google.com/drive/1-xNWKHvtL8xeL3Nte4QZUa2cc9GZk4kS?usp=drive_link | [link]() |
+| Ch8 | https://colab.research.google.com/drive/1-YnFJjJFEhiIJzdHza8XpPUfsVI9bxQs?usp=sharing | [link]() |
 | Ch9 | [link]() | [link]() |
 
 ## What we learned

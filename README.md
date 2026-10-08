@@ -1,6 +1,5 @@
 # Carbon_Delgado_MexEE402_CaseStudy
 
-```markdown
 # MexEE 402: Data Preprocessing Case Study
 
 MexEE Elective 2: Data Science and Machine Learning
@@ -46,6 +45,3 @@ Hiding it is.
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.
 VanderPlas, J. Python Data Science Handbook.
 Any other page or article you used.
-```
-
----

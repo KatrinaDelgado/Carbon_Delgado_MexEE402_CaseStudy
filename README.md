@@ -30,6 +30,17 @@ Batangas State University, Alangilan Campus
 One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
 you and what surprised you. Not what the library does, but what you understood.
 
+I learned in chapter 1 that data preprocessing is important before using it in machine learning. Because the raw data might have inconsistent or missing information that should have been fixed or organized before using. This also teaches us to always remember to prepare first the things needed before using it. Because if we did not organize or prepare it it can cause damage or more error in machine learning. One data that has error or inconsistent information can lead to more error in machine learning. 
+
+In chapter 2 I learned that the first thing that is important to do is to understand the datasheet that you are working with. Looking at the rows, data type and statistics helps me know what data I am dealing with. Simple information about the dataset can help us  understand more about the data we are working with.
+
+I learned in Chapter 3  that there are different types of how to handle missing values in a data depending on the situation. The missing values should not be ignored because it affects the accuracy of the result. There are different solutions for all missing data problems, like removing the rows that has a missing values or replacing the missing value with estimated value 
+
+Feature engineering is one of the things I learned in chapter 4. Making new useful information from existing data. I also understand the two methods in encoding the one hot ending and ordinal encoding. In one hot encoding we use this when we don't need ranking in a data while ordinal encoding is used when we need to rank the data or information we deal with
+
+In chapter 5 I learned that we need data scaling if we have a problem in terms of the big difference in the range of the values. Because the model might only focus on the data that has the higher  value and might disregard the other data. For example when we have something we focus on the things that have higher value rather than the other so it can also happen in machine learning and with scaling we can prevent this scenario from happening. 
+
+
 ## Errors we found
 
 List any mistake you found in the original notebooks, and the correct version.

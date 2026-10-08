@@ -11,15 +11,15 @@ Batangas State University, Alangilan Campus
 | Name | Student Number | Section |
 |---|---|---|
 | Carbon, Jeremy R. | 22-02813 | Mexe 4103 |
-| Surname, First Name | | |
+| Delgado, Katrina Mae A. | 22-05189 | Mexe 4103 |
 
 ## Notebook links
 
-| Chapter | Carbon, Jeremy R. | Member 2 |
+| Chapter | Carbon, Jeremy R. | Delgado, Katrina Mae A |
 |---|---|---|
-| Ch1_2_3 | [link]() | [link]() |
-| Ch4 | [link]() | [link]() |
-| Ch5 | [link]() | [link]() |
+| Ch1_2_3 | [link]() | https://colab.research.google.com/drive/1OKbFN3q5YHZ1S2YXqAknpQypyMqOLKoY?usp=drive_link |
+| Ch4 | [link]() | https://colab.research.google.com/drive/1rNg3f6EAeTzzxtRO5RigiIof4jFNoP2b?usp=drive_link |
+| Ch5 | [link]() |  |
 | Ch6 | https://colab.research.google.com/drive/1j7nSJPkcsEtO4_6IF_xnreictWYR-_wD?usp=drive_link | [link]() |
 | Ch7 | https://colab.research.google.com/drive/1-xNWKHvtL8xeL3Nte4QZUa2cc9GZk4kS?usp=drive_link | [link]() |
 | Ch8 | https://colab.research.google.com/drive/1-YnFJjJFEhiIJzdHza8XpPUfsVI9bxQs?usp=sharing | [link]() |

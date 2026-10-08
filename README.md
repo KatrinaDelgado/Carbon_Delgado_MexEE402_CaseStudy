@@ -15,7 +15,7 @@ Batangas State University, Alangilan Campus
 
 ## Notebook links
 
-| Chapter | Member 1 | Member 2 |
+| Chapter | Carbon, Jeremy R. | Member 2 |
 |---|---|---|
 | Ch1_2_3 | [link]() | [link]() |
 | Ch4 | [link]() | [link]() |

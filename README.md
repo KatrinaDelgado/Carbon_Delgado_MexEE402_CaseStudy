@@ -47,9 +47,6 @@ We learned in Chapter 9 that we understood that analyzing data becomes easier wh
 
 ## Errors we found
 
-List any mistake you found in the original notebooks, and the correct version.
-There are real ones in there. Finding them earns points.
-
 In chaptern 1-5, we did not find any eror. 
 
 In Chapter 6 there is one process that looks like an error to us, it is on the part where the boundaries of the z-score is being defined, we can already tell the 100 is the outlier in the set of numbers, but when we define the limit or boundary of the z-score to get the outlier, we define the boundary too far and that caused the outlier unidentified, and in Chapter 6, we used 3 even though the the majority of the z-scores didn't even reach 1.
@@ -71,10 +68,7 @@ print("outliers: ", outliers)
 
 ## Note on AI tools
 
-Say whether you used an AI tool, and what for. This is not a penalty.
-Hiding it is.
-
-We use AI as a tool for us to understand the meaning or concepts in tagalog. Because we cant really understand it in english and with AI it explains it to us in tagalog with examples for us to really understand what we are doing in every chapter.
+We use AI as a tool for us to understand the meaning or concepts in tagalog. Because we cant really understand it in english and with AI it explains it to us in tagalog with examples for us to really understand what we are doing in every chapter. We also use it to easily understand the  methods that was used in the notebook.
 
 ## References
 

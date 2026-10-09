@@ -46,7 +46,7 @@ We learned in Chapter 7 that feature selection helps choose useful features for 
 
 In Chapter 8, we learned that preprocessing pipeline automates the distribution of datas consistently and efficiently. It also reduce human error, because we don't need to manually and repeatedly input the data.
 
-We learned that we understood that analyzing data becomes easier when it is presented through figures and comparisons rather than just numbers. However, this is only possible when the data has been cleaned and unrelated information has been removed.
+We learned in Chapter 9 that we understood that analyzing data becomes easier when it is presented through figures and comparisons rather than just numbers. However, this is only possible when the data has been cleaned and unrelated information has been removed.
 
 ## Errors we found
 

@@ -46,6 +46,8 @@ In chapter 5 I learned that we need data scaling if we have a problem in terms o
 List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
+In chaptern 1-5, we did not find any eror. 
+
 ## Note on AI tools
 
 Say whether you used an AI tool, and what for. This is not a penalty.

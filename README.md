@@ -27,9 +27,6 @@ Batangas State University, Alangilan Campus
 
 ## What we learned
 
-One short paragraph per chapter, Ch1_2_3 to Ch9. Say what the chapter taught
-you and what surprised you. Not what the library does, but what you understood.
-
 We learned in chapter 1 that data preprocessing is important before using it in machine learning. Because the raw data might have inconsistent or missing information that should have been fixed or organized before using. This also teaches us to always remember to prepare first the things needed before using it. Because if we did not organize or prepare it it can cause damage or more error in machine learning. One data that has error or inconsistent information can lead to more error in machine learning. 
 
 In chapter 2, we learned that the first thing that is important to do is to understand the datasheet that you are working with. Looking at the rows, data type and statistics helps me know what data I am dealing with. Simple information about the dataset can help us  understand more about the data we are working with.
@@ -54,6 +51,19 @@ List any mistake you found in the original notebooks, and the correct version.
 There are real ones in there. Finding them earns points.
 
 In chaptern 1-5, we did not find any eror. 
+
+In Chapter 6 there is one process that looks like an error to us, it is on the part where the boundaries of the z-score is being defined, we can already tell the 100 is the outlier in the set of numbers, but when we define the limit or boundary of the z-score to get the outlier, we define the boundary too far and that caused the outlier unidentified, and in Chapter 6, we used 3 even though the the majority of the z-scores didn't even reach 1.
+
+This is the code where the boundaries were still in 3:
+# find outliers
+outliers = data[np.abs(z_scores) > 3]
+print("outliers: ", outliers)
+
+If we correct the code, it should look like this:
+# find outliers
+outliers = data[np.abs(z_scores) > 1]
+print("outliers: ", outliers)
+
 
 ## Note on AI tools
 

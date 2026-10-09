@@ -51,6 +51,8 @@ There are real ones in there. Finding them earns points.
 Say whether you used an AI tool, and what for. This is not a penalty.
 Hiding it is.
 
+We use AI as a tool for us to understand the meaning or concepts in tagalog. Because we cant really understand it in english and with AI it explains it to us in tagalog with examples for us to really understand what we are doing in every chapter.
+
 ## References
 
 McKinney, W. (2021). Python for Data Analysis, 3rd ed. O'Reilly.

@@ -54,6 +54,7 @@ In Chapter 6 there is one process that looks like an error to us, it is on the p
 This is the code where the boundaries were still in 3:
 
 **find outliers**
+
 outliers = data[np.abs(z_scores) > 3]
 
 print("outliers: ", outliers)
@@ -61,6 +62,7 @@ print("outliers: ", outliers)
 If we correct the code, it should look like this:
 
 **find outliers**
+
 outliers = data[np.abs(z_scores) > 1]
 
 print("outliers: ", outliers)

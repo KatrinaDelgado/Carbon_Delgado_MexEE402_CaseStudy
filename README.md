@@ -47,7 +47,7 @@ We learned in Chapter 9 that we understood that analyzing data becomes easier wh
 
 ## Errors we found
 
-In chaptern 1-5, we did not find any eror. 
+In Chapters 1-5, we did not find any eror. 
 
 In Chapter 6 there is one process that looks like an error to us, it is on the part where the boundaries of the z-score is being defined, we can already tell the 100 is the outlier in the set of numbers, but when we define the limit or boundary of the z-score to get the outlier, we define the boundary too far and that caused the outlier unidentified, and in Chapter 6, we used 3 even though the the majority of the z-scores didn't even reach 1.
 
